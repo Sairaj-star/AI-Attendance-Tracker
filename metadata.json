@@ -1,0 +1,7 @@
+{
+  "name": "AI Attendance Tracker",
+  "description": "An intelligent attendance system that uses your device's camera to detect and recognize students' faces, automatically marking them as present. It can also generate a summary report of the day's attendance using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
